@@ -4,7 +4,7 @@
 OpenGL temelleri ile basit bir sahne gerçekleştirilmesi.
 
 ## Bilgisayarımda nasıl çalıştırırım?
-Repoyu klonladıktan sonra ve dosya dizinie gittikten sonra:
+Repoyu klonladıktan sonra ve dosya dizinine gittikten sonra:
 ```
 make run
 ```
